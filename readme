@@ -1,1 +1,6 @@
 Python ile Ev fiyatlar csv dosyasına göre Linear Regression kullanılarak veri modellemesi geliştirme
+
+Ev fiyat tahmini modeli oluşturmak için LinearRegression kullanıma örnek çalışmadır.
+
+Model, metrekare, yatak odası ve banyo sayısı gibi özelliklere göre ev fiyatlarını tahmin etmeye çalışıyor. 
+Eğitim tamamlandıktan sonra test verileri üzerinde tahminler yapılıyor ve performans ölçütleri (MAE, MSE, RMSE) hesaplanarak modelin doğruluğu değerlendiriliyor.
